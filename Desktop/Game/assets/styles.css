@@ -1,0 +1,41 @@
+body{
+    width: 50%;
+    margin: 0 auto;
+    justify-content: center;
+    align-items: center;
+}
+
+img{
+    width: 5rem;
+}
+button{
+    background-color: #FEB439;
+    width: 6.5rem;
+    padding: 10px;
+}
+.container{
+    width: 50%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 50px;
+}
+
+.box{
+    border: 1px solid black;
+    padding: 10px;
+    display: flex;
+
+}
+#text-result{
+margin-left: 10rem;
+margin-top: 5rem;
+  color: green;
+}
+#reset{
+  padding: 10px;
+  margin-left: 10rem;
+  margin-top: 5rem;
+  
+}
