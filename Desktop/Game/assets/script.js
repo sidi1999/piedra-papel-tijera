@@ -53,7 +53,7 @@ else {
 }
 
 
-if (pntJ === 3 || pntC === 3){
+if (pntJ === 5 || pntC === 5){
     btns.forEach ((btn) => {
     btn.disabled = true;
 reset.disabled = false;
